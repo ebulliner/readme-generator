@@ -1,5 +1,5 @@
 # Eventube ![License: MIT](<https://img.shields.io/badge/License-MIT-yellow.svg>)
-  When you don't have plans for the night, Eventube will give you something to do!
+  Have fun!
   # Table of Contents:
   * [Installation](#installation)
   * [Usage](#usage)
@@ -9,18 +9,18 @@
   * [License](#license)
 ---
   ## Installation:
-  Go to GitHub, Clone the repository, clone it into your termnial or command line
+  Git clone into your terminal/command line
   ## Usage:
-  It's used for event planning.
+  to have fun
   ## Contributing:
-  Just make sure when using this app to have fun after you make your plans! Nothing more, nothing less!
+  nope!
   ## Tests:
-  No
+  nope!
   ## Questions:
   For any further assistance, you may contact me at:
   * Github: [ebulliner](<https://github.com/ebulliner>)
   OR
-  * Email: evan_bulliner@yahoo.com
+  * Email: email@email.com
   ---
   ___
 # License
